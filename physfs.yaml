@@ -1,4 +1,4 @@
 version_control: hg
 src_repoo: https://hg.icculus.org/icculus/physfs
 tag_prefix: "release-"
-seperator: "."
+separator: "."
