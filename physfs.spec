@@ -1,6 +1,6 @@
 Name:           physfs
-Version:        3.0.1
-Release:        4
+Version:        3.0.2
+Release:        1
 License:        zlib
 Summary:        Provide abstract access to various archives
 URL:            http://www.icculus.org/physfs/
@@ -63,5 +63,8 @@ touch -r LICENSE.txt docs/latex/*
 
 
 %changelog
+* Sat Jun 11 2022 YukariChiba <i@0x7f.cc> - 3.0.2-1
+- Upgrade version.
+
 * Fri Nov 29 2019 openEuler Buildteam <buildteam@openeuler.org> - 3.0.1-4
 - Package init
